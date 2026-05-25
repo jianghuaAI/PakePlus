@@ -441,7 +441,7 @@ const isDownPage = () => {
 }
 
 // get last release
-const lastRelease = data || {
+const lastRelease = data[0] || {
     url: 'https://api.github.com/repos/Sjj1024/PakePlus/releases/207589840',
     assets_url:
         'https://api.github.com/repos/Sjj1024/PakePlus/releases/207589840/assets',
