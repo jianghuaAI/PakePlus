@@ -350,9 +350,9 @@
                         https://ppweb.pages.dev/
                     </a>
                 </div>
-                <div class="item">
+                <!-- <div class="item">
                     <span>{{ langMap[lang].notRecommended }}</span>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- last release -->
